@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>_2020_10_09___test_making_html_table_engine</RootNamespace>
+  </PropertyGroup>
+
+</Project>

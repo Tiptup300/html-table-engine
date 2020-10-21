@@ -1,0 +1,13 @@
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\bin\Debug\2020-10-09-- test-making-html-table-engine.dll
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\bin\Debug\2020-10-09-- test-making-html-table-engine.pdb
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\TIptup300\source\repos\2020-10-09-- test-making-html-table-engine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
